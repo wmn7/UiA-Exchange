@@ -10,3 +10,7 @@
 ## Data Science Applications
 
 data science课程最后的大作业, 关于health话题.
+
+## Practical English
+
+这个文件夹包括所有课件内容的整理和最后的模拟试卷.
